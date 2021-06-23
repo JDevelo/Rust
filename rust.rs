@@ -1,1 +1,1 @@
-printIn('rust')
+   println("rust")
