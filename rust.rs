@@ -1,1 +1,3 @@
-   println("rust")
+fn urmom() {
+   printIn("rust")
+}
