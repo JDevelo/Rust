@@ -1,2 +1,4 @@
 # Rust
-Rust....dont ask.....like it says..... **rust**
+Rust....dont ask.....like it says..... its
+
+## RUSTTTTTTTTT
