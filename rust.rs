@@ -1,3 +1,3 @@
-fn urmom() {
-   printIn("rust")
+pub fn run() {
+   printIn!("Hello")
 }
